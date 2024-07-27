@@ -20,6 +20,7 @@ Research Question:
 - 고위기 청소년 중, '자해'와 자살 에 노출된 학생들의 데이터를 수렴해 본 결과, 학생들은 자신의 문제를 다른 사람들과 나누는 것에 부정적인 태도를 가지고 있다.
 
 </br>
+</br>
 
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/48429786-5054-41f1-940e-fef4d8ad7b79">
 
@@ -29,6 +30,7 @@ Research Question:
 - 청소년들이 상담에 대한 '접근성'과 '신뢰성'을 부정적으로 인식하고 있다는 것을 보여준다.​
 
 </br>
+</br>
 
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/6b6c6a9e-bdff-4138-b4ad-647d1408d264">
 
@@ -37,6 +39,7 @@ Research Question:
 - 청소년상담복지센터를 인지하고 있으나, 이를 이용하지 않은 학생은 53%로 높은 수치를 갖는다.
   - 여기서 53%는 청소년상담복지센터를 인지한 학생 중, 이용하지 않은 학생을 계산한 수치이다.
  
+</br>
 </br>
 
 <img width="377" alt="image" src="https://github.com/user-attachments/assets/4d60f54b-628f-4d66-a291-dcce1b4c679a">
