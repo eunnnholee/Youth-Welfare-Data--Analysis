@@ -14,6 +14,7 @@ Research Question:
 
 ## 연구배경
 <img width="295" alt="image" src="https://github.com/user-attachments/assets/5f0aa5d4-db2d-4598-963f-272f4ee11900">
+
 > 자살과 자해 사실에 대해 알린 경험에 대한 분석
 
 </br>
