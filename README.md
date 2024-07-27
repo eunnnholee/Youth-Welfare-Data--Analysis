@@ -1,1 +1,21 @@
-# Youth-Welfare-Data--Analysis
+# 공공데이터 기반 청소년상담복지사업 아이디어 공모전
+
+프로젝트명:​ 청소년 상담 센터 유입 향상을 위한 '마음 치유 약국'
+
+
+
+데이터셋: 국가통계포털(KOSIS)에서 자해, 자살 관련된 통계 자료 활용
+
+​
+
+Research Question: 고위기 청소년 중, '자해'와 '자살' 노출 위험에 놓여진 학생들의 정신 건강 지원을 어떻게 하면 쉽게 할 수 있을까?
+
+
+</br>
+</br>
+
+## 연구배경
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/5f0aa5d4-db2d-4598-963f-272f4ee11900">
+> 자살과 자해 사실에 대해 알린 경험에 대한 분석
+
+</br>
